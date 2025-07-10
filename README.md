@@ -98,3 +98,6 @@ This predictive analysis approach can be applied in various domains such as:
 * Credit risk scoring
 
 ---
+
+outout:
+<img width="695" height="470" alt="Image" src="https://github.com/user-attachments/assets/29cebba5-1e57-4684-ae9c-dbcf48faacb0" />
