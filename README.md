@@ -101,3 +101,5 @@ This predictive analysis approach can be applied in various domains such as:
 
 outout:
 <img width="695" height="470" alt="Image" src="https://github.com/user-attachments/assets/29cebba5-1e57-4684-ae9c-dbcf48faacb0" />
+
+<img width="487" height="504" alt="Image" src="https://github.com/user-attachments/assets/ba6f739e-b480-4478-ae22-3f5e2dd9956f" />
